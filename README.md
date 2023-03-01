@@ -2,3 +2,4 @@
 
 [`storcli`](cmd/storcli)
 [`tail`](cmd/tail)
+[`mkfifo`]()
